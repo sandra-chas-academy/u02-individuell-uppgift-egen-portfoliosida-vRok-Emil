@@ -1,0 +1,33 @@
+{
+    "education": [
+      {
+        "school": "Grillska gymnasiet",
+        "period": "HT 2016 - VT 2019",
+        "description": "Jag läste samhällsvetenskap med inriktning på beteendevetenskap. Mitt största intresse var psykologi, där jag lärde mig om hur människor fungerar och påverkas av arv och miljö. I trean läste jag kurser som naturkunskap, media och kommunikation, samt pedagogiskt ledarskap."
+      },
+      {
+        "school": "Chas Academy",
+        "period": "HT 2024 - VT 2026",
+        "description": "Jag studerar fullstackutveckling inom JavaScript på Chas Academy, en ledande yrkeshögskola inom IT."
+      },
+      {
+        "school": "Fornbyskolan",
+        "period": "2019 - 2021",
+        "description": "Jag arbetade som vikarie och hade utmanande men givande erfarenheter med elever som hade särskilda behov och funktionsvariationer."
+      }
+    ],
+    "work_experience": [
+      {
+        "workplace": "Fornbyskolan",
+        "period": "2019 - 2021",
+        "description": "Som vikarie utvecklade jag förmågan att skapa stödjande och inkluderande miljöer för elever med särskilda behov."
+      },
+      {
+        "workplace": "Skärlagskolan",
+        "period": "VT 2021 - HT 2023",
+        "description": "Under mitt förlängda vikariat som elevassistent och fritidspedagog arbetade jag med elever med olika behov och anpassade pedagogiska metoder för en elev med koncentrationssvårigheter och ilskeproblem."
+      }
+     
+    ]
+  }
+  
