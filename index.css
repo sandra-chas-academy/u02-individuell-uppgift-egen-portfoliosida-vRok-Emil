@@ -19,13 +19,10 @@ html{
   --textcolor:#666666;
   --navtextcolor:#808080;
   --black:#000000;
-  --backgroundforlightanddark: #ffffff;
+  --body: #ffff;
+  --white: #ffff;
 }
-body{
-  background-color: var(--backgroundforlightanddark);
-}
-
-.darkmode{
+  .darkmode{
   --blue:#13f54c;
   --purple: #ca24b4;
   --green: hsl(239, 97%, 60%);
@@ -33,8 +30,7 @@ body{
   --textcolor:#ffffff;
   --navtextcolor:#ffffff;
   --black:#ffffff;
-  --backgroundforlightanddark: hsla(0, 0%, 0%, 0.89);
-  
+  --body: #000000;
 }
 
 #scrollToTop{
@@ -61,6 +57,9 @@ nav{
     
   
     
+}
+body{
+  background-color:var(--body)
 }
 .logoimg{
  margin-top: 1rem;
@@ -240,15 +239,18 @@ right: 250px;
   flex-direction: column;
   margin-bottom: 1rem;
   gap: 4rem;
-  color: var(--backgroundforlightanddark);
+  
   position: relative;
   right: 250px;
 }
 .projectcard{
-
 box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
 border-radius: 4%;
-
+height: 600px;
+width: 300px;
+position: relative;
+right: 60px;
+background-color: var(--white);
 
 }
 .projectcard img{
@@ -295,7 +297,7 @@ margin-bottom: 0px; */
 
 /* contact */
 
-
+.contactme{
 height: 50vh;
 flex-direction: column;
 position: relative;
@@ -366,13 +368,6 @@ margin-bottom: 2rem;
   display: flex;
   justify-content: space-between;
   margin: 0 0rem 0 9rem; */
-}
-.projectcard{
-  height: 600px;
-  width: 300px;
-  position: relative;
-  right: 60px;
-  background-color: var(--black);
 }
 
 
@@ -601,5 +596,20 @@ display: none;
   .contactme{
     right: 0px;
   }
-}
+  .aboutmeh1{
+    color:var(--darkblue)
+   }
+   .abouttitle{
+    color:var(--darkblue)
+   }
+   .contactmetitle{
+    color:var(--darkblue)
+   }
+   .contactemail{
+    color:var(--darkblue)
+   }
+   .contactnumber{
+    color:var(--darkblue)
+   }
+  }
 
