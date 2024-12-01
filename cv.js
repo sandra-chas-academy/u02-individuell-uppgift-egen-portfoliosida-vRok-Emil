@@ -1,4 +1,4 @@
-// Fetch JSON data
+
 fetch('cv.json')
   .then(response => response.json())
   .then(data => {

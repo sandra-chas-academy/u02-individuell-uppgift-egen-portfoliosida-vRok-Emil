@@ -34,12 +34,17 @@ När hämtningen av projekten sker ska det finnas information om att projekten h
 
 ### Sammantfattning av projekt + teoretiska frågor
 
-1. Du sammanfattar ditt projekt i README.md och reflekterar kring styrkor och ev brister. Max 500 ord.
+1. Du sammanfattar ditt projekt i README.md och reflekterar kring styrkor och ev När det kommer till denna uppgift har jag känt mig “lat”. Började otroligt sent på den för att det har varit stenhårt fokus på U03, hjälper inte heller att man har varit sjuk på senaste tiden. Jag är nöjd över hur slut resultatet blev, men det finns lite saker som jag skulle velat göra bättre. Det blev lite strul med JSON. Om man går in och kollar på about me delen och scrollar ner till “Education” så är inte städerna andra texten med stadsnamnet centrerat. Vet inte hur jag ska åtgärda problemet, funkade som det skulle inte jag klistra in allt i cv.js. Min knapp för darkmode är inte heller så snygg, hade otroligt mycket strul med den också. Annars så är jag nöjd med mitt arbete. Styrkorna är helt klart att jag inte ger upp på gott och ont. Något som jag måste jobba på med är helt klart CSS. Jag märker att det är lätt att man glömmer nu när vi har haft stenhårt fokus på Javascript. Ska se till att repetera det samtidigt som när jag jobbar med Javascript. Tycker även att det var dåligt av mig att jag använde mig av den gamla mallen istället för att göra en helt ny portfoliosida. Men med tanke på tidsbristen så gjorde jag helt klart det bästa av situationen. Ser bara denna som en uppgift och kommer jobba på en egen portfolio-sida lite längre fram. Blir perfekt ha något som man är 100% nöjd med. Otroligt bra att ha när vi ska söka LIA.      
+
+   
 2. Du svarar på dessa frågor (max 800 ord):
 
-Vad kan man utveckla m.h.a av Javascript inom frontend?
-Vad är JSON och hur används det inom frontend?
-Vad är HTTP och varför bör man som frontendutvecklare ha kunskap om det och dess protokoll?
+Vad kan man utveckla m.h.a av Javascript inom frontend? Javascript är till för att göra användar gränssnitet: Javacript gör det möjligt att skapa dynamiska användargränssnitt som reagerar på användarens interaktioner. Kan ta mina funktioner som exempel. Jag har gjort en dark-mode knapp samt en scroll to top knapp. Dessa funktioner finns på sidan men de gör inget förrän användaren trycker på dem. Finns otroligt många exempel på detta som DOM-manipulation, formulärvalidering animering och övergångar och mycket mer       
+
+
+Vad är JSON och hur används det inom frontend?: JSON är en typ av dataformat som är lättviktigt. Det används för att överföra data mellan en server och en klient, oftast via HTTP. JSON är lätt att läsa för människor samt en dator. Det är ett textbaserat format som representerar i form av “nyckel-värde-par” 
+
+Vad är HTTP och varför bör man som frontendutvecklare ha kunskap om det och dess protokoll?:HTTP står för hypetext tranfer protocol. Det är ett protokoll som används för att överföra data mellan en webbserver och en webbläsare. När en användare skriver in något i URL-fältet eller trycker på en länk så skickas en förfrågan till en server. Svaret från servern kommer vara att man kommer in på sidan, eller om man har något strul med sitt internet så kommer det komma upp ett fel meddelande. i urlen så kan man även skriva korta koder. Man kan tex använda sig av GET, POST, PUT, DELETE.  
 
 
 ## Kriterier för bedömning
