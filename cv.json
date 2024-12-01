@@ -1,0 +1,40 @@
+{
+    "education": [
+      {
+        "school": "Grillska gymnasiet",
+        "period": "HT 2016 - VT 2019",
+        "description": "Full time",
+        "place": "Stockholm"
+      },
+      {
+        "school": "Astar",
+        "period": "HT 2022 - VT 2023",
+        "description": "Full time",
+        "place": "Stockholm"
+      },
+      {
+        "school": "Chas Academy",
+        "period": "HT 2024 - VT 2026",
+        "description": "Full time",
+        "place": "Stockholm"
+      }
+    
+    ],
+    "work_experience": [    
+      {
+        "workplace": "Fornbyskolan",
+        "period": "2019 - 2021",
+        "description": "Part time",
+        "place": "Trosa"
+
+      },
+      {
+        "workplace": "Skärlagskolan",
+        "period": "2021 - 2023",
+        "description": "Part time",
+        "place": "Trosa"
+      }
+     
+    ]
+  }
+  

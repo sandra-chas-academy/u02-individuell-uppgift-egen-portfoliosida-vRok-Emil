@@ -1,0 +1,7 @@
+ta bort alla H1 förutom den första
+
+lägg till en darkmode knapp på sidan, det kommer vara en interaktiv JS /klart
+
+lägg till kanske en scroll effekt som gör att du skrollar ner till de rubrikerna  /klart
+
+https://www.youtube.com/watch?v=_gKEUYarehE
