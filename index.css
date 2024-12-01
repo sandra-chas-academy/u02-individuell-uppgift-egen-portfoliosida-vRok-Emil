@@ -135,11 +135,14 @@ color:var(--darkblue);
 text-align: center;
 margin-top: 3rem;
 color: var(--textcolor);
+position: relative;
+right: 250px;
+
 }
 
 #theme-switch{
-  height: 50px;
-  width: 50px;
+  height: 30px;
+  width: 30px;
   padding: 0;
   border-radius: 50%;
   display: flex;
@@ -218,7 +221,7 @@ color: var(--textcolor);
    width: 32rem;
    margin: 10rem 3rem 10rem;
    position: relative;
-   left: 80px;
+   right: 170px;
    margin: 10rem 10rem 10rem ;
 
   }
@@ -238,6 +241,8 @@ color: var(--textcolor);
   margin-bottom: 1rem;
   gap: 4rem;
   color: var(--backgroundforlightanddark);
+  position: relative;
+  right: 250px;
 }
 .projectcard{
 
@@ -289,11 +294,12 @@ margin-bottom: 0px; */
 }
 
 /* contact */
-.contactme{
+
 
 height: 50vh;
 flex-direction: column;
-
+position: relative;
+right: 260px;
 
 }
 .contactmetitledesktop{
@@ -407,13 +413,13 @@ color: var(--textcolor);
 @media (max-width:600px){
   .textforproject h1{
      position: relative;
-    right: 90px;
+    
     
     
   }
   .textforproject p{
     position: relative;
-    left: 30px
+    
   }
   .textprojectdesktophidden{
     display: none;
@@ -585,6 +591,15 @@ display: none;
   
   .maincards{
    left: 0px 
+  }
+  .container{
+    right: 30px;
+  }
+  .mainfooter{
+    right: 0px;
+  }
+  .contactme{
+    right: 0px;
   }
 }
 
