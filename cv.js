@@ -11,10 +11,10 @@ fetch('cv.json')
             <p class="Frontendtext">My work</p>
             <div class="textincardleft">
               <p class="imgwork1">
-                <img src="mdi_office-building.svg" alt="building" />${job.workplace}
+                <img src="./img/mdi_office-building.svg" alt="building" />${job.workplace}
               </p>
               <p class="imgwork1">
-                <img src="carbon_location.svg" alt="navi" />${job.place}
+                <src="./img/carbon_location.svg" alt="navi" />${job.place}
               </p>
             </div>
           </div>
@@ -36,10 +36,10 @@ fetch('cv.json')
             <p class="Frontendtext">My studies</p>
             <div class="textincardleft">
               <p class="imgwork1">
-                <img src="mdi_office-building.svg" alt="building" /> ${edu.school}
+                <img src="./img/mdi_office-building.svg" alt="building" /> ${edu.school}
               </p>
               <p class="imgwork1">
-                <img src="carbon_location.svg" alt="navi" /> ${edu.place}
+                <img src="./img/carbon_location.svg" alt="navi" /> ${edu.place}
               </p>
             </div>
           </div>

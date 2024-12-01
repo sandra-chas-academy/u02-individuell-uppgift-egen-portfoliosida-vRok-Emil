@@ -135,7 +135,7 @@ text-align: center;
 margin-top: 3rem;
 color: var(--textcolor);
 position: relative;
-right: 250px;
+right: 120px
 
 }
 
@@ -302,7 +302,7 @@ margin-bottom: 0px; */
 height: 50vh;
 flex-direction: column;
 position: relative;
-right: 260px;
+right: 100px;
 
 }
 .contactmetitledesktop{
